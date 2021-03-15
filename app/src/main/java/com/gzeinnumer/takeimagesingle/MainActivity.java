@@ -37,7 +37,6 @@ public class MainActivity extends AppCompatActivity {
         initOnClick();
     }
 
-
     private void initOnClick() {
         binding.btnSimpan.setOnClickListener(view -> {
             dispatchTakePictureIntent();
