@@ -94,7 +94,7 @@
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-|![]()|![]()|
+|![](https://github.com/gzeinnumer/TakeImageSingle/blob/master/preview/example1.jpg)|![](https://github.com/gzeinnumer/TakeImageSingle/blob/master/preview/example2.jpg)|
 
 ---
 
